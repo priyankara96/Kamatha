@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400156710677",
+    "project_id": "kamatha-cd143",
+    "storage_bucket": "kamatha-cd143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400156710677:android:90f0d0ecd8a31f46dabb1c",
+        "android_client_info": {
+          "package_name": "com.sliit.kamatha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400156710677-8e06sqhb68jg67hr9ke1ullj7srgg6ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sliit.kamatha",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "400156710677-l1duhvrd5nuu19mvff6k9o7093ec3ern.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIycIsdykSLA2P99g-iWpFUd5qFqJYFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400156710677-l1duhvrd5nuu19mvff6k9o7093ec3ern.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
